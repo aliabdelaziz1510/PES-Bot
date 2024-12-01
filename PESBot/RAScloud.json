@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pes-2025",
+  "private_key_id": "f4d705bd96bc4155da90f2e314a4c22199199cc0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCUW9opudgao5bS\n8Y7XYmpdDlBkkdPFnjj0t9+PffBb4X4xIQEhssHHZBcaIuuk+Of2heif4Yg0GH91\nhdHMXevYzCnyh3ODRM0h+lOaqyXRYJAFeZILMfMm0oU8D4bXiH4cdHopcECK2T35\nec45dmdZlGstjzk3UHLceLq51L83huaDJT5LzJ8C+7NZl3VMkvbPvHR3KzPJVGQQ\n/QP7bldncFgEtqqZ3Msrh55Cz4vNFiN5+N2rnsv0r/ILGBAerxk/WgouFiZ6XiKS\nVlPSZrrr9QlSNmwf/uEDIjTbsIctgbrD1rTAladrCs+9rut5q4ewv/KWryAE/zX4\n2FH+ogpBAgMBAAECggEAMbcUBP6Hiem+7YJQDSIoJXXZ/9GURzlNucfyLSoVRRzr\nxjfaorm90Pzb9wCzuY1FYimeehFALMD22WGWG+dvVK+Z8PFuBpOkMBosMPzgR+kV\nahhClejPo/dQ+X70fz54kD2CAGfi4QSKjZLBRiVE3dJsFhDUKhKV4wa7//DogQj7\ngkwBDnKRaP1HOuzz3ry57SsThJvn7abiZZrw6Cnda/4XZON0mFAKuMTWP3y0EWom\nNvWtWLuUcOipCoeE3COWBbikCndD4Wsc3x0hB+kxvuIFLPnehrqbiswa8n08yPZJ\nxFp18Wv2dQ/LvMYYOOccWvNDfjvdraVMjxrm5JnL5wKBgQDI7bn3U8SzQK+U2UHZ\nCPyZCr7wgWVbjOvQrNTPZswfXVRSOPuM3aiSBJDz7YjuZI/gJ1edzgWFDXfaPJwf\nc2QzTCfIsu1wJpi5oe5pNIf8QgXHC0tUPgJh72PQ8Rm4chkNdF2qYd1ZV8r5opDd\nCoY/ykk1Pjbxn1qLHBrT7ISonwKBgQC9BYic+RiY+89C0MmKD0zB++HIJ+FcKqJV\nnci+AD7oelixC6oIikDP6UxvhV3LMFkV75bmiPox8cjn0b3TT0lPoGn13MfmFTWY\n2IJyEVtaj3n6wcqv/Z945nAfuqGKTHh7G+OUchsyUHe9G3CfDElcgjnW66k6ZEeX\ndHKWDHcBHwKBgQCVRlA/2EMtbSRE8HeEN7H6PUqHwYo8zuAvIwfjohqKPrszbtQr\n3k2rVasfHdz6R0nAnVnxiir9o3jkcN0IXKEXnz97Ursl8/bJCu3lyToyBhbmvpRT\nXNJGUiSVCVozdsj3/vjLaXOaOag5eDYpkfUVFUL4RGVrcxlAejvQMEqKPwKBgBS4\nVpFefOPINqAMYwtPQgrBoa5fMMT5p3HbKfYp8LtrLe26aZkmDpS77jULWYy8cAeH\ni/MZcNOovW0sALL5LgAchYD+AqumB4oJscLvRCRZNfXW6HECTEjkecYAn1SZrVtR\nY1EScQjC6V1BdMb6gdAyNkTo8FQGShLAIQ9xrlnhAoGBAL5cIu8ZSxl3QKdPJiA7\nyCkiurSDL4HY9JNFUl+jWlqiAOza2V0jlX7wdo6HdaNJC0Dj7NAVFPCfoCpbr0lC\nv4pHVdug8JANoDvKNWnc5UMESLyKsZEiuzwf8Z7dP7OGFhcgO4nDG1QgJEZ+5ob+\n3IYmk9hmlSiyfxYk17Kckjjp\n-----END PRIVATE KEY-----\n",
+  "client_email": "file-pes-upload@pes-2025.iam.gserviceaccount.com",
+  "client_id": "108581001749543088737",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/file-pes-upload%40pes-2025.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

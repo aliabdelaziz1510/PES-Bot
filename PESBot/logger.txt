@@ -1,0 +1,241 @@
+2024-10-24 17:50:58,075 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - -----------------------
+2024-10-24 17:50:58,077 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Script started...
+2024-10-24 17:50:58,077 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - DEBUG - 24-Oct-2024 17_50_58
+2024-10-25 12:38:43,067 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - -----------------------
+2024-10-25 12:38:43,067 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Script started...
+2024-10-25 12:38:43,067 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - DEBUG - 25-Oct-2024 12_38_43
+2024-10-25 13:49:39,418 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - -----------------------
+2024-10-25 13:49:39,418 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Script started...
+2024-10-25 13:49:39,418 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - DEBUG - 25-Oct-2024 13_49_39
+2024-10-25 13:52:21,142 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - -----------------------
+2024-10-25 13:52:21,142 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Script started...
+2024-10-25 13:52:21,142 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - DEBUG - 25-Oct-2024 13_52_21
+2024-10-25 13:56:33,920 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - -----------------------
+2024-10-25 13:56:33,927 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Script started...
+2024-10-25 13:56:33,927 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - DEBUG - 25-Oct-2024 13_56_33
+2024-10-25 13:56:38,734 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Logged in as PES Bot
+2024-10-25 14:02:08,383 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - -----------------------
+2024-10-25 14:02:08,384 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Script started...
+2024-10-25 14:02:08,384 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - DEBUG - 25-Oct-2024 14_02_08
+2024-10-25 14:02:12,609 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Logged in as PES Bot
+2024-10-25 14:02:38,303 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-25 14:02:39,054 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - User:ali.abdelazez created a thread test
+2024-10-25 14:02:39,339 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-10-25 14:03:33,842 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-25 14:03:34,690 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - ERROR - Error: Invalid scheduled time format. Your scheduled_datetime is 5.
+2024-10-25 14:04:47,662 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-25 14:04:48,381 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - The msg: 
+"here is the test task"
+is scheduled for `2024-10-26 11:59`.
+Remaining time: `19:54:11.917406`.
+
+2024-10-25 14:08:23,157 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - -----------------------
+2024-10-25 14:08:23,157 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Script started...
+2024-10-25 14:08:23,157 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - DEBUG - 25-Oct-2024 14_08_23
+2024-10-25 14:08:27,548 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Logged in as PES Bot
+2024-10-25 14:09:11,836 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-25 14:09:12,149 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - {user_id} is not authorized to use this command
+2024-10-25 14:09:38,072 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - -----------------------
+2024-10-25 14:09:38,072 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Script started...
+2024-10-25 14:09:38,072 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - DEBUG - 25-Oct-2024 14_09_38
+2024-10-25 14:09:42,319 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Logged in as PES Bot
+2024-10-25 14:10:54,208 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-25 14:10:54,848 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - The msg: 
+"test task"
+is scheduled for `2024-10-26 11:59`.
+Remaining time: `19:48:05.491365`.
+
+2024-10-25 14:11:15,279 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-25 14:11:16,064 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - User:ali.abdelazez created a thread test
+2024-10-25 14:11:16,373 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-10-25 14:14:33,075 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-25 14:14:33,714 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - User:ali.abdelazez created a thread test
+2024-10-25 14:14:34,010 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-10-25 14:16:26,419 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - eslam_mahmoud requested to send a message
+2024-10-25 14:16:26,903 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - {user_id} is not authorized to use this command
+2024-10-25 14:18:45,859 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - -----------------------
+2024-10-25 14:18:45,859 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Script started...
+2024-10-25 14:18:45,860 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - DEBUG - 25-Oct-2024 14_18_45
+2024-10-25 14:18:49,991 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - Logged in as PES Bot
+2024-10-25 14:19:16,062 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - eslam_mahmoud requested to send a message
+2024-10-25 14:19:16,929 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - INFO - User:eslam_mahmoud created a thread ziad task 1
+2024-10-25 14:19:17,203 - C:\Users\Ali Abdelazez\Documents\IEEE\Final PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-10-25 21:54:16,466 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 21:54:16,468 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 21:54:16,468 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 21_54_16
+2024-10-25 21:54:21,161 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 21:57:51,869 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 21:57:51,869 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 21:57:51,870 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 21_57_51
+2024-10-25 21:57:56,614 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 21:59:10,486 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 21:59:10,486 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 21:59:10,486 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 21_59_10
+2024-10-25 21:59:16,249 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 22:00:18,736 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 22:00:18,736 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 22:00:18,737 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 22_00_18
+2024-10-25 22:00:23,608 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 22:12:11,861 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 22:12:11,862 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 22:12:11,862 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 22_12_11
+2024-10-25 22:12:17,026 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 22:23:49,747 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 22:23:49,748 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 22:23:49,748 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 22_23_49
+2024-10-25 22:23:54,563 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 22:27:25,220 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 22:27:25,220 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 22:27:25,220 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 22_27_25
+2024-10-25 22:27:30,018 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 22:54:39,808 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 22:54:39,808 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 22:54:39,809 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 22_54_39
+2024-10-25 22:54:44,746 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 23:01:33,464 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 23:01:33,465 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 23:01:33,466 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 23_01_33
+2024-10-25 23:01:38,286 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 23:03:06,665 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 23:03:06,666 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 23:03:06,666 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 23_03_06
+2024-10-25 23:03:11,402 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 23:15:57,781 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 23:15:57,782 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 23:15:57,783 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 23_15_57
+2024-10-25 23:16:02,547 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 23:16:46,458 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 23:16:46,460 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 23:16:46,461 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 23_16_46
+2024-10-25 23:16:51,309 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 23:35:00,555 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 23:35:00,556 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 23:35:00,556 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 23_35_00
+2024-10-25 23:36:01,396 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-25 23:36:02,081 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-10-25 23:36:02,407 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-10-25 23:36:42,848 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-25 23:36:43,563 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-10-25 23:36:43,861 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-10-25 23:39:25,801 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 23:39:25,802 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 23:39:25,802 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 23_39_25
+2024-10-25 23:39:30,535 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 23:41:18,208 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 23:41:18,208 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 23:41:18,209 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 23_41_18
+2024-10-25 23:41:22,587 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 23:44:41,124 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 23:44:41,125 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 23:44:41,125 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 23_44_41
+2024-10-25 23:44:45,162 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 23:47:05,992 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 23:47:05,992 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 23:47:05,992 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 23_47_05
+2024-10-25 23:47:10,102 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-25 23:49:10,242 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-25 23:49:10,242 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-25 23:49:10,242 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 25-Oct-2024 23_49_10
+2024-10-25 23:49:14,435 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-26 00:07:27,918 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-26 00:07:27,918 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-26 00:07:27,919 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 26-Oct-2024 00_07_27
+2024-10-26 00:07:32,784 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-26 00:08:24,744 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-26 00:08:24,745 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-26 00:08:24,745 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 26-Oct-2024 00_08_24
+2024-10-26 00:08:28,875 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-26 00:11:06,289 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-26 00:11:06,290 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-26 00:11:06,290 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 26-Oct-2024 00_11_06
+2024-10-26 00:11:10,719 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-26 00:12:03,630 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-26 00:12:03,630 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-26 00:12:03,631 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 26-Oct-2024 00_12_03
+2024-10-26 00:12:07,889 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-26 00:12:40,974 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - -----------------------
+2024-10-26 00:12:40,975 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Script started...
+2024-10-26 00:12:40,975 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - DEBUG - 26-Oct-2024 00_12_40
+2024-10-26 00:12:45,176 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot Test\_log.py - INFO - Logged in as PES Bot
+2024-10-26 00:18:40,405 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-10-26 00:18:40,406 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-10-26 00:18:40,406 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 26-Oct-2024 00_18_40
+2024-10-26 00:18:44,897 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-10-26 00:22:39,629 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-10-26 00:22:39,631 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-10-26 00:22:39,631 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 26-Oct-2024 00_22_39
+2024-10-26 00:22:47,124 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-10-26 00:23:03,243 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-26 00:23:04,306 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-10-26 00:23:04,725 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-10-26 20:27:23,949 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-10-26 20:27:23,949 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-10-26 20:27:23,950 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 26-Oct-2024 20_27_23
+2024-10-26 20:27:28,526 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-10-26 20:30:03,429 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-10-26 20:30:05,055 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-10-26 20:30:10,044 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-11-30 18:46:35,461 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-11-30 18:46:35,462 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-11-30 18:46:35,463 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 30-Nov-2024 18_46_35
+2024-11-30 18:46:40,394 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-11-30 18:49:51,363 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-11-30 18:49:52,228 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-11-30 18:49:52,476 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-11-30 18:58:00,250 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-11-30 18:58:01,037 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-11-30 18:58:01,283 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-11-30 19:02:34,469 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-11-30 19:02:35,168 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-11-30 19:02:35,428 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-11-30 19:07:49,310 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-11-30 19:07:49,934 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-11-30 19:07:50,179 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-11-30 20:24:54,522 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-11-30 20:24:54,524 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-11-30 20:24:54,524 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 30-Nov-2024 20_24_54
+2024-11-30 20:24:59,006 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-11-30 20:26:27,119 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-11-30 20:26:27,756 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-11-30 20:26:28,036 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-11-30 20:29:01,070 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-11-30 20:29:01,990 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-11-30 20:29:02,247 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-11-30 21:07:47,291 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-11-30 21:07:47,292 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-11-30 21:07:47,292 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 30-Nov-2024 21_07_47
+2024-11-30 21:07:51,752 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-11-30 21:10:37,682 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-11-30 21:10:37,682 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-11-30 21:10:37,682 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 30-Nov-2024 21_10_37
+2024-11-30 21:12:11,778 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-11-30 21:12:11,778 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-11-30 21:12:11,779 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 30-Nov-2024 21_12_11
+2024-11-30 21:12:15,884 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-11-30 21:14:42,680 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-11-30 21:14:42,680 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-11-30 21:14:42,680 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 30-Nov-2024 21_14_42
+2024-11-30 21:14:46,806 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-11-30 21:15:22,152 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-11-30 21:15:22,916 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-11-30 21:15:23,201 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-11-30 21:35:15,402 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-11-30 21:35:16,103 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread Task1
+2024-11-30 21:35:16,502 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-11-30 21:35:55,467 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-11-30 21:35:55,467 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-11-30 21:35:55,468 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 30-Nov-2024 21_35_55
+2024-11-30 21:35:59,954 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-11-30 23:46:51,422 - c:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-12-01 12:56:30,100 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-12-01 12:56:30,115 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-12-01 12:56:30,115 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 01-Dec-2024 12_56_30
+2024-12-01 12:56:42,615 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-12-01 12:57:58,518 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - ali.abdelazez requested to send a message
+2024-12-01 12:57:59,542 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - User:ali.abdelazez created a thread task1
+2024-12-01 12:58:00,155 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - ERROR - An error occurred in send_msg: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-12-01 21:12:51,613 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
+2024-12-01 21:19:53,140 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - -----------------------
+2024-12-01 21:19:53,140 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Script started...
+2024-12-01 21:19:53,140 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - DEBUG - 01-Dec-2024 21_19_53
+2024-12-01 21:19:57,370 - C:\Users\Ali Abdelazez\Documents\IEEE\PESBot\_log.py - INFO - Logged in as PES Bot
