@@ -1,112 +1,92 @@
 import discord
 from discord.ext import commands
 from discord import app_commands
-from gdrive import *
-# from _log import _logger
-from logTask import logTask
 import os
 from dotenv import load_dotenv
-import time
-class send_task(commands.Cog):
+from PESBot.gdrive import find_or_create_folder, gdrive
+from googleapiclient.http import MediaFileUpload
+
+
+class SendTask(commands.Cog):
     def __init__(self, client: commands.Bot):
         self.client = client
-        # self.logger = _logger()
         load_dotenv(".env")
 
     @app_commands.command(
-        name="send_task", description="All tasks should be submitted here"
+        name="send_task", description="Submit your tasks here."
     )
     async def send_task(
         self,
         interaction: discord.Interaction,
         file: discord.Attachment,
     ):
-        """Command: send_task
-
-        Parameters:
-        - task_number (str): The number of the task to be submitted.
-        - file (discord.Attachment): The file attachment to be submitted.
-
-        Submits a task with the specified number and a file attachment to the designated Google Drive folder.
         """
-        print("=" * 80)
+        Command: send_task
+
+        Submits a file to the Google Drive folder mapped to the user's channel.
+        """
         await interaction.response.defer(ephemeral=False)
-        
+
+        # Define the mapping of channel IDs to folder IDs
+        folder_id_mapping = {
+            1298739590236082186: "1fUnf9aNaJ1StQ008abBBO-sHmaRnCzXa",  # automation-g1
+            1298372720534491247: "1tOteiKJhlLUm8eLzNJIjYNf7NYbCBkjR",  # automation-g2
+            1298374602552250452: "182r4vvz4honT-G-riLJvkesPVMYS0dgD",  # distribution-g1
+            1298375236135419926: "1qghBLByMOpaq9WtrLm0ITsafWmbSv0GD",  # distribution-g2
+            1298375343148630066: "1A1yzYPdr9Dqz9hM5IxWTpCG0MpJh29o5",  # E-Mobility
+            1298374623083364433: "1Hxmri0y69kk7BujM4xxKwNWDR3XDeO8A",  # Smart Home
+            1298375769239851040: "1OzKG54qR3cNae6I-MWFS2yMk4XK-ahTv",  # Mechanical
+        }
+
         try:
-            # user name
-            user_name = interaction.user.global_name
-            user_id = interaction.user
-            Track_id = interaction.channel.parent_id
-            print(Track_id)
-            print(f"Channel_id {Track_id}")
-            print("username:" + user_name)
-            folder_id = {
-                1298739590236082186: "1fUnf9aNaJ1StQ008abBBO-sHmaRnCzXa",  # automation-g1
-                1298372720534491247: "1tOteiKJhlLUm8eLzNJIjYNf7NYbCBkjR",  # automation-g2
-                1298374602552250452: "182r4vvz4honT-G-riLJvkesPVMYS0dgD",  # distribution-g1
-                1298375236135419926: "1qghBLByMOpaq9WtrLm0ITsafWmbSv0GD",  # distribution-g2
-                1298375343148630066: "1A1yzYPdr9Dqz9hM5IxWTpCG0MpJh29o5",  # E-Mobility
-                1298374623083364433: "1Hxmri0y69kk7BujM4xxKwNWDR3XDeO8A",  # Smart Home
-                1298375769239851040: "1OzKG54qR3cNae6I-MWFS2yMk4XK-ahTv",  # Mechanical
-            }
+            # Retrieve user and channel details
+            user_name = interaction.user.global_name or interaction.user.name
+            track_id = interaction.channel.parent_id
 
-            task_id = find_or_create_folder(gdrive(),folder_id[(Track_id)],interaction.channel.name)
-            
-            
-            gfile = gdrive().CreateFile(
-                {
-                    "title": file.filename,
-                    "parents": [{"id": task_id}],
-                    # "content-length": file.size,  # Set the content length explicitly
-                }
-            )
-            # response = requests.get(file.url)
-            # file_data = BytesIO(response.content)
-            respone_file = await file.read()
-            # Save the file data to a temporary file
-            cpath = os.getcwd()
-            # temp_path = os.path.join(cpath, "temp")
-            temp_file_path = os.path.join(cpath, file.filename)
+            if track_id not in folder_id_mapping:
+                raise ValueError("Channel not mapped to any folder.")
 
+            parent_folder_id = folder_id_mapping[track_id]
+
+            # Initialize Google Drive service and get task folder
+            service = gdrive()
+            task_folder_id = find_or_create_folder(service, parent_folder_id, interaction.channel.name)
+
+            if not task_folder_id:
+                raise ValueError(f"Unable to create/find folder for channel: {interaction.channel.name}")
+
+            # Read file data
+            file_data = await file.read()
+            temp_file_path = os.path.join(os.getcwd(), file.filename)
+
+            # Save to a temporary file
             with open(temp_file_path, "wb") as temp_file:
-                temp_file.write(respone_file)
-            # Set the content file from the temporary file
-            # print(temp_file_path)
-            gfile.SetContentFile(temp_file_path)
+                temp_file.write(file_data)
 
-            # Upload the file to Google Drive directly
-            
-            gfile.Upload()
-            # Clean up the temporary file
-            try:
-                os.remove(temp_file_path)
-            except Exception as e:
-                print(f"File Removing Error: {e}")
-            # Get the link to the uploaded file
-            # file_url = gfile['alternateLink']
+            # Upload file to Google Drive
+            file_metadata = {"name": file.filename, "parents": [task_folder_id]}
+            media = MediaFileUpload(temp_file_path)
+            uploaded_file = service.files().create(
+                body=file_metadata,
+                media_body=media,
+                fields="id"
+            ).execute()
 
-            # Send the file link as a response in Discord
-            # await interaction.response.send_message(f'Uploaded file to Google Drive. You can access it [here]({file_url}).', ephemeral=True)
-            # logTask(user_name, str(user_id), task_number, "---", str(file.filename))
+            # Cleanup temporary file
+            os.remove(temp_file_path)
+
+            # Notify the user
             await interaction.followup.send(
-                f"**{user_name}** successfully submitted **{interaction.channel.name}**"
+                f"**{user_name}**, your file has been successfully submitted to the task folder."
             )
-            # if str(user_id) not in self.Mechanical_users:
-            #     self.logger.info(
-            #         f"**{user_name}** successfully submitted **Task #{task_number}** Electronics"
-            #     )
-            # else:
-            #     self.logger.info(
-            #         f"**{user_name}** successfully submitted **Task #{task_number}** Mechanical"
-            #     )
+            print(f"File uploaded successfully with ID: {uploaded_file['id']}")
 
         except Exception as e:
-            # self.logger.error(
-            #     f"**{user_name}** coundn't submitted **Task #{task_number}**"
-            # )
-            # self.logger.error(e)
-            print(e)
+            # Handle errors gracefully
+            error_message = f"An error occurred while processing your request: {e}"
+            print(error_message)
+            await interaction.followup.send(error_message)
 
 
 async def setup(client: commands.Bot) -> None:
-    await client.add_cog(send_task(client))
+    await client.add_cog(SendTask(client))
